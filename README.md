@@ -24,8 +24,7 @@
 
 ### 개발 결과
 
-  ![1](https://user-images.githubusercontent.com/11.png)
-
+ ![11](https://user-images.githubusercontent.com/58680504/79338616-987be380-7f62-11ea-9af4-263b8914111c.png)
 - **case 1: FCM을 활용한 ECU 제어**
 
   1-1 AWS에서의 Web-Server
